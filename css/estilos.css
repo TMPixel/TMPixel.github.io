@@ -1,0 +1,48 @@
+.carousel-item{
+  height: 539px;
+  background: rgb(0, 0,0);
+  background-position: center;
+  background-size: cover;
+}
+.alert-primary{
+  margin-left: 30%;
+  margin-right: 30%;
+  padding-left: 9%;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#descripcion{
+  text-align: center;
+  margin-left: 5cm;
+  margin-right: 5cm;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+footer{
+  background: black;
+  color: rgb(255, 255, 255);
+  padding-left: 25%;
+  padding-top: 2%;
+  padding-bottom: 2%;
+  font-size: 85%;
+  
+}
+ 
+#imagen-logo{
+  float: left;
+  width: 21%;
+  margin-top: 2%;
+}
+
+table {
+	width: 60%;
+}
+
+
+
+
+
+
+
+
+
